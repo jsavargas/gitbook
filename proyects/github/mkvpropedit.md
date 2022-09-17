@@ -14,4 +14,4 @@ Nos movemos hasta la ruta donde estan los archivos a limpiar y ejecutamos el doc
 
 ​docker run --rm -it -v "$(pwd):/storage" jsavargas/mkvpropedit:latest find /storage -iname "\*mkv" -exec show-tracks {} ;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
