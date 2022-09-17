@@ -7,6 +7,7 @@
 * [Tutoriales Comunidad](tutoriales-unraid/tutoriales-comunidad/README.md)
   * [Sonarr - Radarr](tutoriales-unraid/tutoriales-comunidad/sonarr-radarr/README.md)
     * [Primera parte](tutoriales-unraid/tutoriales-comunidad/sonarr-radarr/primera-parte.md)
+* [Page 2](tutoriales-unraid/page-2.md)
 * [demo 2](tutoriales-unraid/demo-2.md)
 
 ## Proyects
@@ -22,7 +23,3 @@
 
 * [Videos Unraid](video-tutoriales/videos-unraid/README.md)
   * [Guia de Primeros Pasos](video-tutoriales/videos-unraid/guia-de-primeros-pasos.md)
-
-## Plantillas
-
-* [Page 1](plantillas/page-1.md)
