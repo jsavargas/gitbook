@@ -7,8 +7,6 @@ description: >-
 
 # Guia de Primeros Pasos
 
-
-
 * Guia de Primeros Pasos en UnRAID (Parte 1º)
 
 {% embed url="https://www.youtube.com/watch?v=00zfs3U21GY" %}

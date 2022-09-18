@@ -10,14 +10,14 @@
 * [Page 2](tutoriales-unraid/page-2.md)
 * [demo 2](tutoriales-unraid/demo-2.md)
 
-## Proyects
+## Proyectos
 
-* [Github](proyects/github/README.md)
-  * [Telethon Downloader](proyects/github/telethon-downloader.md)
-  * [Calibre Upload Bot](proyects/github/calibre-upload-bot.md)
-  * [Mkvpropedit](proyects/github/mkvpropedit.md)
-  * [Telegram Downloader](proyects/github/telegram-downloader.md)
-  * [ZSpotify](proyects/github/zspotify.md)
+* [Github](proyectos/github/README.md)
+  * [Telethon Downloader](proyectos/github/telethon-downloader.md)
+  * [Calibre Upload Bot](proyectos/github/calibre-upload-bot.md)
+  * [Mkvpropedit](proyectos/github/mkvpropedit.md)
+  * [Telegram Downloader](proyectos/github/telegram-downloader.md)
+  * [ZSpotify](proyectos/github/zspotify.md)
 
 ## Video Tutoriales
 
